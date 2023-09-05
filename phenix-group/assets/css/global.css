@@ -1,0 +1,193 @@
+.mainnav a:hover {
+    color: #7141b1!important;
+}
+
+.block02{
+    border: 8px solid #7141b1!important;
+}
+
+.block01 ul li:before {
+    background-color: #7141b1!important;
+}
+
+a.phonen {
+    background: #7141b1!important;
+    color: white!important;
+}
+
+.phoner {
+    border: solid 2px #7141b1!important;
+}
+
+.phoner:hover {
+    background: #7141b1!important;
+    color: white!important;
+}
+
+input[type="range"] {
+    background-image: linear-gradient(#7141b1, #7141b1)!important;
+}
+
+.page-header {
+    top: 0!important;
+}
+
+.block02 button {
+    background-color: #7141b1!important;
+    color: white!important;
+}
+
+.cenban-header, .cenban-yellow {
+    background-color: #7141b1!important;
+    color: white!important;
+}
+
+.tabsPnl div.acti {
+    color: white!important;
+    background: #7141b1!important;
+}
+
+.sec33 .tabsPnl div, .sec35 .tabsPnl div {
+    border: 2px solid #7141b1!important;
+}
+
+.tabsFrm {
+    border-top: 1px solid #7141b1!important;
+}
+
+.tabsBtn:hover {
+    background: #7141b1!important;
+    color: white!important;
+}
+
+.bx-prev:before, .bx-next:before {
+    color: #ffffff !important;
+}
+
+.but-yell {
+    border: solid 2px #7141b1!important;
+}
+
+.hitEvents {
+    border-color: #7141b1!important;
+    -webkit-box-shadow: 0px 0px 4px 0px #7141b1!important;
+    box-shadow: 0px 0px 4px 0px #7141b1!important;
+}
+
+.hitEvents .but-yell {
+    background: #7141b1!important;
+    color: white!important;
+}
+
+.but-yell:hover {
+    background: #7141b1!important;
+    /*color: white!important;*/
+}
+
+.tabbop:after {
+    color: #7141b1!important;
+}
+
+.bx-pager-link.active {
+    background-color: #7141b1!important;
+}
+
+.flex1 ul li:before {
+    background-color: #7141b1!important;
+}
+
+.ticker-wrapper div p {
+    color: #7141b1!important;
+}
+
+.text-yellow {
+    color: #7141b1!important;
+}
+
+.sec7 {
+    background-color: #7141b1!important;
+}
+
+.sec7 .block button {
+    border: 2px solid #7040b1!important;
+    font-size: 25px!important;
+}
+
+.sec7 p {
+    color: white!important;
+}
+
+.sec35 .item .txt {
+    background-color: #7141b1!important;
+}
+
+.sec35 .item .txt .t1, .sec35 .t1 span, .sec35 .item .txt .ttt1, .sec35 .item .txt .t2 {
+    color: white!important;
+}
+
+.sec77 .block .item, .sec44 .block .item {
+    border: 2px solid #7141b1!important;
+}
+
+.sec5 .form_block ul li:before {
+    background-color: #7141b1!important;
+}
+
+.sec5 .form_block .form .tt1.active::before {
+    color: #7141b1!important;
+    border-color: #7141b1!important;
+}
+
+.sec5 .form_block .form button {
+    border: 2px solid #7141b1!important;
+}
+
+.sec5 .form_block .form button:hover {
+    background-color: #7141b1!important;
+    color: white!important;
+}
+
+.sec8 {
+    background-color: #7040b1!important;
+}
+
+.sec8 .bbtn button {
+    border: 2px solid #7040b1!important;
+    color: black!important;
+}
+
+.acc-head:before {
+    color: #7040b1!important;
+}
+
+.sec10 .block {
+    border: 15px solid #7040b1!important;
+}
+
+.sec8 .t1, .sec8 .block .item .it2 .itt1, .sec8 .block .item .it2 .itt2, .sec8 .block .item .it2 .itt2 a, .sec8 .block .item .it1, .sec8 .block .item .it2 .itt2 span {
+    color: white!important;
+}
+
+.md-content {
+    border: 8px solid #7040b1!important;
+}
+.md-content button {
+    background-color: #7040b1!important;
+    color: white!important;
+}
+
+.sec71 #accordeon .acc-body {
+    color: #7040b1!important;
+}
+
+.sec10 .block .item button {
+    border: 2px solid #7040b1!important;
+}
+
+.logo-m img {
+    height: 30px!important;
+}
+
+#burg-menu div {
+    background: #7040b1!important;
+}

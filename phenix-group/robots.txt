@@ -1,0 +1,2 @@
+Host: etalonremont.com
+Sitemap: https://etalonremont.com/sitemap.xml
